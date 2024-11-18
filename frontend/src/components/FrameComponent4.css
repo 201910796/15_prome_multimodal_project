@@ -1,0 +1,82 @@
+.share-background {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-cornflowerblue-200);
+}
+.div22 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.15px;
+  font-weight: 600;
+  z-index: 1;
+}
+.button-wrapper,
+.button2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button2 {
+  flex: 1;
+  overflow: hidden;
+  padding: var(--padding-sm-5) var(--padding-128xl) var(--padding-sm-5)
+    var(--padding-130xl);
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 2;
+}
+.button-wrapper {
+  align-self: stretch;
+  padding: 0 var(--padding-base);
+}
+.background6 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.line4 {
+  height: 5px;
+  width: 134px;
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  z-index: 1;
+}
+.bars-home-indicator4,
+.frame-parent1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.bars-home-indicator4 {
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-xl) var(--padding-4xs)
+    var(--padding-2xl);
+  position: relative;
+}
+.frame-parent1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--body-texts-text-6-size);
+  color: var(--main-white);
+  font-family: var(--font-caramel);
+}

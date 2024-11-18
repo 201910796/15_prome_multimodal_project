@@ -1,0 +1,179 @@
+.next {
+  text-decoration: none;
+  position: absolute;
+  top: 56px;
+  left: 331px;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 32px;
+  height: 21px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+.background4 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon {
+  height: 10.5px;
+  width: 24.5px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.bars-status-bar-iphone-x {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-lg) var(--padding-sm) var(--padding-base-5);
+  box-sizing: border-box;
+}
+.recents {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 139px;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 67px;
+  height: 21px;
+  min-width: 67px;
+  white-space: nowrap;
+}
+.select-multiple-icon {
+  height: 29px;
+  width: 29px;
+  position: absolute;
+  margin: 0 !important;
+  right: -28px;
+  bottom: -4px;
+  object-fit: contain;
+}
+.option-description {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  z-index: 1;
+}
+.option-name {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.close-icon {
+  width: 17.8px;
+  height: 17.8px;
+  position: relative;
+}
+.recents1 {
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 600;
+}
+.other-albums-icon {
+  width: 10.7px;
+  height: 6.2px;
+  position: relative;
+}
+.other-options {
+  flex-direction: column;
+  padding: var(--padding-5xs-4) 0 0;
+}
+.option-item-one,
+.option-item-two,
+.other-options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.option-item-two {
+  flex-direction: row;
+  padding: 0 var(--padding-mini) 0 0;
+  gap: var(--gap-11xs);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.option-item-one {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 59px;
+  flex-direction: column;
+  gap: var(--gap-6xl-1);
+}
+.mobile-signal-icon,
+.wifi-icon {
+  position: absolute;
+  top: 3.3px;
+  left: 299.7px;
+  width: 15.3px;
+  height: 11px;
+  z-index: 1;
+}
+.mobile-signal-icon {
+  top: 3.7px;
+  left: 277.7px;
+  width: 17px;
+  height: 10.7px;
+}
+.options-list {
+  height: 107px;
+  flex: 1;
+  position: relative;
+}
+.options {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 100%;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.top-navigation {
+  position: absolute;
+  top: 14px;
+  left: 16px;
+  width: 315px;
+  height: 107px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.next-parent {
+  align-self: stretch;
+  height: 121px;
+  position: relative;
+  flex-shrink: 0;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-cornflowerblue-100);
+  font-family: var(--font-caramel);
+}

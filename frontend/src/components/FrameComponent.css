@@ -1,0 +1,79 @@
+.photo-icon,
+.post-count {
+  position: relative;
+  z-index: 1;
+}
+.photo-icon {
+  height: 96px;
+  width: 96px;
+}
+.post-count {
+  text-decoration: none;
+  width: 37px;
+  letter-spacing: -0.3px;
+  line-height: 21px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.stats-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.followers {
+  position: relative;
+  letter-spacing: -0.1px;
+  z-index: 1;
+}
+.stats-list1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-smi);
+}
+.stats,
+.stats-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.stats {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.stats-wrapper {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-10xl);
+}
+.account-info-inner,
+.photo-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.photo-parent {
+  flex: 1;
+  align-items: flex-end;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-15xl);
+}
+.account-info-inner {
+  width: 348.7px;
+  align-items: flex-start;
+  padding: 0 var(--padding-2xs) var(--padding-xs);
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-caramel);
+}

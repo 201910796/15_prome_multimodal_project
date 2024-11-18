@@ -1,0 +1,168 @@
+.next1 {
+  text-decoration: none;
+  position: absolute;
+  top: 56px;
+  left: 331px;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 32px;
+  height: 21px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+.select-multiple-icon1 {
+  position: absolute;
+  top: 96px;
+  left: 330px;
+  width: 29px;
+  height: 29px;
+  object-fit: contain;
+}
+.background7 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon2,
+.wifi-icon2 {
+  height: 11px;
+  width: 15.3px;
+  position: relative;
+  z-index: 1;
+}
+.battery-icon2 {
+  height: 10.5px;
+  width: 24.5px;
+  object-fit: cover;
+}
+.bars-status-bar-iphone-x2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-mid-3) var(--padding-sm) var(--padding-base-5);
+  box-sizing: border-box;
+  gap: var(--gap-8xs);
+}
+.recents2 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 139px;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 67px;
+  height: 21px;
+  min-width: 67px;
+  white-space: nowrap;
+}
+.mobile-signal-icon2 {
+  position: absolute;
+  top: 3.7px;
+  left: 277.7px;
+  width: 17px;
+  height: 10.7px;
+  z-index: 1;
+}
+.placeholder {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  z-index: 1;
+}
+.placeholder-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.close-icon1 {
+  width: 17.8px;
+  height: 17.8px;
+  position: relative;
+}
+.recents3 {
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 600;
+}
+.other-albums-icon1 {
+  width: 10.7px;
+  height: 6.2px;
+  position: relative;
+}
+.other-albums-wrapper {
+  flex-direction: column;
+  padding: var(--padding-5xs-4) 0 0;
+}
+.frame-parent2,
+.other-albums-wrapper,
+.recents-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recents-group {
+  flex-direction: row;
+  padding: 0 var(--padding-mini) 0 0;
+  gap: var(--gap-11xs);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.frame-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 59px;
+  flex-direction: column;
+  gap: var(--gap-6xl-1);
+}
+.mobile-signal-parent,
+.recents-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.recents-parent {
+  top: 14px;
+  left: 16px;
+  width: 294.7px;
+  height: 107px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.next-group {
+  align-self: stretch;
+  height: 125px;
+  position: relative;
+  flex-shrink: 0;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-cornflowerblue-100);
+  font-family: var(--font-caramel);
+}

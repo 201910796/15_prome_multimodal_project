@@ -1,0 +1,129 @@
+.pictures-child {
+  height: 238px;
+  width: 202px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.pictures,
+.pictures-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.pictures {
+  overflow-x: auto;
+  gap: var(--gap-7xs);
+}
+.pictures-wrapper {
+  padding: 0 0 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.div1 {
+  height: 80px;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.15px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.add-music,
+.frame-parent,
+.wrapper {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.add-music,
+.frame-parent {
+  flex-direction: column;
+}
+.frame-parent {
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  text-align: left;
+  font-size: var(--body-texts-text-6-size);
+  color: #ababab;
+  font-family: var(--font-caramel);
+}
+.add-music {
+  height: 201px;
+  align-items: flex-end;
+}
+.icon {
+  width: 9px;
+  height: 12.4px;
+  position: relative;
+}
+.icon-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-3) 0 0;
+}
+.div2 {
+  width: 99px;
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.add-music-parent,
+.music,
+.new-post1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.music {
+  margin-right: -133px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-100);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-7xs) var(--padding-sm) var(--padding-7xs)
+    var(--padding-mini);
+  gap: var(--gap-7xs);
+  z-index: 1;
+  margin-top: -93px;
+}
+.add-music-parent,
+.new-post1 {
+  flex-direction: column;
+}
+.add-music-parent {
+  align-self: stretch;
+  height: 262px;
+  align-items: flex-end;
+  padding: 0 0 61px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--body-texts-text-6-size);
+  color: var(--color-black);
+  font-family: var(--font-caramel);
+}
+.new-post1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--main-white);
+  overflow: hidden;
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+  line-height: normal;
+  letter-spacing: normal;
+}

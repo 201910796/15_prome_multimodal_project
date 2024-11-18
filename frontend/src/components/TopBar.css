@@ -1,0 +1,146 @@
+.background10,
+.top-bar-background {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+}
+.top-bar-background {
+  right: 0.3px;
+  background-color: var(--color-gray-500);
+}
+.background10 {
+  right: 1px;
+  left: 0;
+}
+.carrier {
+  width: 55px;
+  position: relative;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.battery-icon4,
+.mobile-signal-icon4,
+.wifi-icon4 {
+  height: 10.7px;
+  width: 17px;
+  position: relative;
+  z-index: 1;
+}
+.battery-icon4,
+.wifi-icon4 {
+  height: 11px;
+  width: 15.3px;
+}
+.battery-icon4 {
+  height: 10.5px;
+  width: 24.5px;
+  object-fit: cover;
+}
+.network-status {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.bars-status-bar-iphone-x4,
+.status-bar-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-3) 0 0;
+}
+.bars-status-bar-iphone-x4 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-sm) var(--padding-sm) var(--padding-xs)
+    var(--padding-2xl);
+  position: relative;
+  gap: var(--gap-xl);
+  z-index: 2;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  font-family: var(--font-caramel);
+}
+.jacob-w {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 102px;
+  z-index: 1;
+}
+.add-icon,
+.menu-icon {
+  height: 23.5px;
+  width: 23.5px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.menu-icon {
+  width: 20.5px;
+  height: 17.5px;
+}
+.menu-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.jacob-w-parent,
+.top-bar,
+.user-actions,
+.user-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.user-actions {
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.jacob-w-parent,
+.top-bar,
+.user-info {
+  max-width: 100%;
+}
+.jacob-w-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.top-bar,
+.user-info {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi) 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.top-bar {
+  flex-direction: column;
+  padding: 0 0 var(--padding-2xs-5);
+  position: sticky;
+  gap: var(--gap-3xs);
+  top: 0;
+  z-index: 99;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-gray-200);
+  font-family: var(--font-caramel);
+}
