@@ -1,0 +1,75 @@
+.div20,
+.icon1 {
+  position: relative;
+}
+.icon1 {
+  height: 27px;
+  width: 27px;
+  object-fit: cover;
+}
+.div20 {
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 600;
+}
+.icon-parent,
+.wrapper3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper3 {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.icon-parent {
+  flex-direction: row;
+  gap: var(--gap-7xs);
+}
+.add-music-detail-background,
+.detail-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.detail-icon {
+  height: 62.5%;
+  width: 33.75%;
+  top: 16.67%;
+  right: 32.92%;
+  bottom: 20.83%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.button {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.add-music-detail,
+.add-music1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs-5) 0 0;
+}
+.add-music1 {
+  align-self: stretch;
+  background-color: var(--main-white);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-sm) var(--padding-base);
+  gap: var(--gap-xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-caramel);
+}

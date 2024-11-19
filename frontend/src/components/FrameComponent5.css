@@ -1,0 +1,125 @@
+.background8 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.battery-icon3,
+.mobile-signal-icon3,
+.wifi-icon3 {
+  height: 10.7px;
+  width: 17px;
+  position: relative;
+  z-index: 1;
+}
+.battery-icon3,
+.wifi-icon3 {
+  height: 11px;
+  width: 15.3px;
+}
+.battery-icon3 {
+  height: 10.5px;
+  width: 24.5px;
+  object-fit: cover;
+}
+.bars-status-bar-iphone-x3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-mid-3) var(--padding-sm) var(--padding-base-5);
+  position: relative;
+  gap: var(--gap-8xs);
+}
+.page-title {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  z-index: 1;
+}
+.title-area {
+  width: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.back-icon1 {
+  width: 9.4px;
+  height: 17.5px;
+  position: relative;
+  flex-shrink: 0;
+}
+.back-button-area {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  flex-shrink: 0;
+}
+.a1 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 21px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 48px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.header,
+.navigation {
+  align-self: stretch;
+  flex: 1;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-120xl-6);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.navigation {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.bars-status-bar-iphone-x-group,
+.content,
+.navigation {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content {
+  width: 228px;
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+  margin-top: -30px;
+}
+.bars-status-bar-iphone-x-group {
+  align-self: stretch;
+  flex-direction: column;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  font-family: var(--font-caramel);
+}

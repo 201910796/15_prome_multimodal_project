@@ -1,0 +1,118 @@
+.rectangle-icon {
+  height: 124px;
+  width: 124px;
+  position: relative;
+  object-fit: cover;
+}
+.rectangle-parent,
+.three-column-grid {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.rectangle-parent {
+  width: 375px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 0 0 var(--padding-16xl) var(--padding-12xs);
+  box-sizing: border-box;
+}
+.three-column-grid {
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.rectangle-icon15 {
+  height: 124px;
+  width: 125px;
+  position: relative;
+  object-fit: cover;
+}
+.post-preview-grid,
+.two-column-grid {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.two-column-grid {
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  flex-shrink: 0;
+}
+.post-preview-grid {
+  align-self: stretch;
+  height: 179px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-36xl) var(--padding-12xs);
+  box-sizing: border-box;
+  margin-top: -376px;
+}
+.background1 {
+  height: 34px;
+  width: 375px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.line1 {
+  height: 5px;
+  width: 134px;
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  z-index: 1;
+}
+.bars-home-indicator1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-xl) var(--padding-4xs)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -376px;
+}
+.new-post2,
+.posts-wrapper,
+.posts1 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.posts1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 var(--padding-51xl) 0;
+  min-height: 749px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.new-post2,
+.posts-wrapper {
+  align-items: flex-start;
+}
+.posts-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  max-width: 100%;
+}
+.new-post2 {
+  width: 100%;
+  height: 812px;
+  position: relative;
+  background-color: var(--main-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 687px;
+  gap: var(--gap-5xs);
+  line-height: normal;
+  letter-spacing: normal;
+}
