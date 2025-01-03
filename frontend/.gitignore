@@ -32,4 +32,7 @@ pids
 
 # OS-specific
 Thumbs.db
+
+# Virtual environment
+venv/
   
