@@ -42,9 +42,9 @@
 
 ## (3) 데이터 수집
 **Video Dataset**
-멀티모달 영상 데이터셋**(Action)**
+멀티모달 영상 데이터셋(Action)
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58
-감정 분류용 데이터셋**(Face)**
+감정 분류용 데이터셋(Face)
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=259
 행동이 담긴 데이터셋과 표정이 담긴 데이터셋을 결합해 새로운 데이터셋을 생성  
 
