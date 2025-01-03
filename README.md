@@ -1,8 +1,6 @@
 ## 프로젝트 제목
----
 **VATT 모델을 활용한 SNS 맞춤형 멀티모달  BGM 추천 프로젝트**
 ## (1) 프로젝트 소개
----
 ### 팀원 
 **<인공지능 연합동아리 프로메테우스 15팀>**
 김형선 **(Team Leader)**
@@ -43,7 +41,6 @@
 추후 기술 뱃지와 함께 한꺼번에 기재
 
 ## (3) 데이터 수집
----
 **Video Dataset**
 멀티모달 영상 데이터셋**(Action)**
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58
