@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/hugging face-FFD21E?style=for-the-badge&logo=hugging face&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 ## (3) 데이터 수집
 **Video Dataset**   
-- 멀티모달 영상 데이터셋(Action)<br/>     
+- 멀티모달 영상 데이터셋(Action)       
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58   
 
 **Image Dataset**      
