@@ -43,11 +43,13 @@
 ## (3) 데이터 수집
 **Video Dataset**   
 - 멀티모달 영상 데이터셋(Action)<br/>     
-https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58          
-**Image Dataset**   
-- 구글 감정에 관련된 검색어를 바탕으로 한 이미지 크롤링 데이터      
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58   
+
+**Image Dataset**      
+- 구글 감정에 관련된 검색어를 바탕으로 한 이미지 크롤링 데이터            
+
 **Text Dataset**   
-- 한국어 감정 정보가 포함된 단발성 대화 데이터셋         
+- 한국어 감정 정보가 포함된 단발성 대화 데이터셋            
 https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=270
 
 ## (4) 프로젝트 진행 과정
