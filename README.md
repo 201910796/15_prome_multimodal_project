@@ -38,7 +38,7 @@
 - 감정 분석과 BGM 추천이 가능한 웹 애플리케이션 형태의 프로토타입을 개발하여, 실질적인 사용자 경험을 제공할 수 있는 데모 완성.
 - 학술적인 기술을 실용적인 솔루션으로 전환하는 경험 축적.
 ## (2) 기술 스택
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=python&logoColor=white">
 
 ## (3) 데이터 수집
 **Video Dataset**
