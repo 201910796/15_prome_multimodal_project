@@ -38,7 +38,7 @@
 - 감정 분석과 BGM 추천이 가능한 웹 애플리케이션 형태의 프로토타입을 개발하여, 실질적인 사용자 경험을 제공할 수 있는 데모 완성.
 - 학술적인 기술을 실용적인 솔루션으로 전환하는 경험 축적.
 ## (2) 기술 스택
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">   
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">   
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/hugging face-FFD21E?style=for-the-badge&logo=hugging face&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 ## (3) 데이터 수집
 **Video Dataset**
@@ -53,8 +53,8 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetS
 한국어 감정 정보가 포함된 단발성 대화 데이터셋      
 https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=270
 
-## (4) 회의록
-
+## (4) 프로젝트 진행 과정
+https://www.notion.so/ai-prometheus/15-Moodify-31c010a861d74eb1b18c2677c9c87a65
 
 
 
