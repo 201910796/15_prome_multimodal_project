@@ -15,7 +15,7 @@
 ### 목표
 **1. 멀티모달 모델을 활용한 다양한 멀티모달 데이터의 감정 분석 기술 구현**
 - SNS 게시글의 텍스트, 사진, 오디오, 비디오 데이터를 통합적으로 분석하여 감정을 정확히 분류할 수 있는 멀티모달 감정 분석 시스템을 개발 
-
+- clip 모델을 감정 분류에 적용해 성능을 향상
 **2. 사용자 경험을 향상시키는 맞춤형 BGM 추천 시스템 구축**
 - 감정 분석 결과에 기반해 사용자의 감정에 어울리는 BGM을 추천하여, 보다 개인화된 사용자 경험을 제공.
 - 사용자의 감정 상태와 연관된 음악 데이터베이스를 효율적으로 매칭하는 알고리즘을 개발
@@ -41,19 +41,17 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">   
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/hugging face-FFD21E?style=for-the-badge&logo=hugging face&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 ## (3) 데이터 수집
-**Video Dataset**
-멀티모달 영상 데이터셋(Action)<br/>     
-https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58   
-감정 분류용 데이터셋(Face)<br/>    
-https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=259   
-행동이 담긴 데이터셋과 표정이 담긴 데이터셋을 결합해 새로운 데이터셋을 생성     
-**Image Dataset**
-구글 감정에 관련된 검색어를 바탕으로 한 이미지 크롤링 데이터
-**Text Dataset**
-한국어 감정 정보가 포함된 단발성 대화 데이터셋      
+**Video Dataset**   
+- 멀티모달 영상 데이터셋(Action)<br/>     
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=58          
+**Image Dataset**   
+- 구글 감정에 관련된 검색어를 바탕으로 한 이미지 크롤링 데이터      
+**Text Dataset**   
+- 한국어 감정 정보가 포함된 단발성 대화 데이터셋         
 https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=270
 
 ## (4) 프로젝트 진행 과정
+**<노션 링크>**  
 https://www.notion.so/ai-prometheus/15-Moodify-31c010a861d74eb1b18c2677c9c87a65
 
 
