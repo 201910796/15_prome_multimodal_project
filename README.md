@@ -3,10 +3,11 @@
 ## (1) 프로젝트 소개
 ### 팀원 
 **<인공지능 연합동아리 프로메테우스 15팀>**
-김형선 **(Team Leader)**
-김지수 **(Backend Engineer)**
-이강룡 **(Full-Stack Developer)**
-최윤서 **(Designer)**
+김형선 **(Team Leader)**   
+김지수 **(Backend Engineer)**   
+이강룡 **(Full-Stack Developer)**   
+최윤서 **(Designer)**   
+
 ### 개발 기간
 24.09.09 -
 ### 개요
