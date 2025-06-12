@@ -1,5 +1,7 @@
 ## 프로젝트 제목
-**SNS 맞춤형 멀티모달  BGM 추천 프로젝트**  
+**SNS 맞춤형 멀티모달  BGM 추천 프로젝트** 
+
+  
 ![Image](https://github.com/user-attachments/assets/51249c70-0ff7-4ef6-9f4a-18918a4ec532)
 
 
