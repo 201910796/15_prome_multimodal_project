@@ -1,5 +1,8 @@
 ## 프로젝트 제목
 **SNS 맞춤형 멀티모달  BGM 추천 프로젝트**
+![Image](https://github.com/user-attachments/assets/b6b855fa-0d8a-4c8f-a533-ace973f8e726)
+
+
 ## (1) 프로젝트 소개
 ### 팀원 
 **<인공지능 연합동아리 프로메테우스 15팀>**   
