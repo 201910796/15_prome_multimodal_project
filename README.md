@@ -9,7 +9,7 @@
 ### 팀원 
 **<인공지능 연합동아리 프로메테우스 15팀>**   
 김형선 **(Team Leader)**   
-김지수 **(Backend Engineer)**   
+김지수 **(AI Model Engineer)**   
 이강룡 **(Full-Stack Developer)**   
 최윤서 **(Designer)**   
 
