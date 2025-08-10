@@ -60,7 +60,7 @@ https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=270
 
 ## (4) 프로젝트 진행 과정
 **<노션 링크>**  
-https://www.notion.so/ai-prometheus/15-Moodify-31c010a861d74eb1b18c2677c9c87a65
+https://www.notion.so/ai-prometheus/15-Moodify-1a38a75b869a813991c5f195d3ff31d5
 
 
 
